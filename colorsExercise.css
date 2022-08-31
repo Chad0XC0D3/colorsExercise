@@ -1,0 +1,39 @@
+/* hex */
+h1{
+    color: #09445d;
+    background-color: #d60d0de2;
+}
+h2{
+    color: #0f0;
+    background-color: #fa0;
+}
+h3{
+    color: rgb(63, 57, 172);
+    background-color: rgb(247, 228 ,38);
+}
+
+h4{
+    color: #811d1db3;
+    background-color: rgba(48, 171, 48, 0.569);
+}
+
+h5{
+    color: aqua;
+    background-color: #4242b5b4;
+}
+
+h6{
+  color:#7777;
+  background-color: #4c0082bb;
+}
+
+p{
+    color: rgba(223, 21, 21, 0.992);
+    background-color: #e8e8;
+}
+#one{
+    color:hotpink;
+}
+#three{
+ background-color: peachpuff;
+}
